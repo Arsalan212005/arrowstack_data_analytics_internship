@@ -6,7 +6,7 @@ This project was completed as part of the **Arrowstack Technologies Data Analyti
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Database Management System:** PostgreSQL (pgAdmin 4)[cite: 2, 3, 4]
+* **Database Management System:** PostgreSQL (pgAdmin 4).
 * **Querying Techniques:** Multi-table `LEFT JOIN` / `INNER JOIN`, Conditional Aggregations (`FILTER`), Common Table Expressions (CTEs), Window Functions (`DENSE_RANK`, `FIRST_VALUE`), Date Truncation, etc.
 
 ---
@@ -20,6 +20,6 @@ This project was completed as part of the **Arrowstack Technologies Data Analyti
 
 
 
-![MRR Analysis Output](screenshots/mrr_analysis_output.png)
+![MRR Analysis Output](Screenshots/mrr_analysis_output.png)
 
-![Cohort Retention Output](screenshots/cohort_retention_output.png)
+![Cohort Retention Output](Screenshots/cohort_retention_output.png)
