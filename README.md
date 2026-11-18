@@ -17,3 +17,9 @@ This project was completed as part of the **Arrowstack Technologies Data Analyti
 ├── Screenshots/               # Visual proof of SQL query executions and outputs
 ├── multi-table sql queries and cohort retention analysis.sql  # Complete PostgreSQL query script
 └── README.md                  # Project documentation and summary of insights
+
+
+
+![MRR Analysis Output](screenshots/mrr_analysis_output.png)
+
+![Cohort Retention Output](screenshots/cohort_retention_output.png)
