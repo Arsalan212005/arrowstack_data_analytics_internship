@@ -20,6 +20,6 @@ This project was completed as part of the **Arrowstack Technologies Data Analyti
 
 
 
-![MRR Analysis Output](Screenshots/mrr_analysis_output.png)
+![MRR Analysis Output](Screenshots/MRR_Screenshot.jpg)
 
-![Cohort Retention Output](Screenshots/cohort_retention_output.png)
+![Cohort Retention Output](Screenshots/relative_month_index_screenshot.jpg)
