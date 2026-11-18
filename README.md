@@ -20,6 +20,8 @@ This project was completed as part of the **Arrowstack Technologies Data Analyti
 
 
 
+### 1. Revenue & Plan Tier Analysis
 ![MRR Analysis Output](Screenshots/MRR_Screenshot.jpg)
 
+### 2. Cohort Retention & Relative Month Indexing
 ![Cohort Retention Output](Screenshots/relative_month_index_screenshot.jpg)
